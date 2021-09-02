@@ -45,5 +45,7 @@
 <p class="p3"><span class="s4"></span><br></p>
 <p class="p2"><span class="s4">吐槽一下</span></p>
 <p class="p2"><span class="s4">Github的md有点难用。我直接导出不行 复制也不行。转成html用vs code 打开再导入才好的<span class="Apple-converted-space"> </span></span></p>
+</p>
+<p class="p2"><span class="s4">好用的话点个star再走呗</span></p>
 </body>
 </html>
