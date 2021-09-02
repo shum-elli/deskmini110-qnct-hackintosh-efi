@@ -1,1 +1,0 @@
-# deskmini110-qnct-hackintosh-efi
