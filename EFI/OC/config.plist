@@ -663,7 +663,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C07807130J9KXPGUE</string>
+			<string>C07800000000000UE</string>
 			<key>ProcessorType</key>
 			<integer>1801</integer>
 			<key>ROM</key>
@@ -675,7 +675,7 @@
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07Z52LKJYW0</string>
+			<string>000000000000</string>
 			<key>SystemUUID</key>
 			<string>DA843D6A-EE80-473F-8904-3CA2C01883F1</string>
 		</dict>
